@@ -4,7 +4,7 @@ My name is Alexandre, I'm a Ruby on Rails developer and designer from France.
 
 The tools I *love* working with are:
 - Ruby, Ruby on Rails and Hotwire 
-- Stimulus for sprinkles (✨) of Javascript 
+- Stimulus for sprinkles (✨) of JavaScript 
 - Minitest for testing
 - CSS and Figma for the design
 
