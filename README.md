@@ -16,4 +16,6 @@ Here are some of my contributions:
 - [hostolab/covidliste](https://github.com/hostolab/covidliste/commits?author=alexandreruban)
 - [forem/forem](https://github.com/forem/forem/commits?author=alexandreruban)
 
-I am also currently writing [a tutorial](https://www.hotrails.dev) about how to use the [turbo-rails](https://github.com/hotwired/turbo-rails) gem now included by default in Rails 7. 📖
+I'm the author of two tutorials:
+- [The turbo-rails tutorial](https://www.hotrails.dev/turbo-rails) about how to use the [turbo-rails](https://github.com/hotwired/turbo-rails) gem included by default in Rails 7. 📘
+- [The rebuilding turbo-rails tutorial](https://www.hotrails.dev/rebuilding-turbo-rails) where we will rebuild the [turbo-rails](https://github.com/hotwired/turbo-rails) gem by peer coding together. 📕
