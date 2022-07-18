@@ -13,8 +13,7 @@ I started contributing to open source and would love to contribute more in the f
 Here are some of my contributions:
 - [rails/rails](https://github.com/rails/rails/commits?author=alexandreruban)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
-- [hostolab/covidliste](https://github.com/hostolab/covidliste/commits?author=alexandreruban)
-- [forem/forem](https://github.com/forem/forem/commits?author=alexandreruban)
+- [joeldrapper/phlex](https://github.com/joeldrapper/phlex/commits?author=alexandreruban)
 
 I'm the author of two tutorials:
 - [The turbo-rails tutorial](https://www.hotrails.dev/turbo-rails) about how to use the [turbo-rails](https://github.com/hotwired/turbo-rails) gem included by default in Rails 7. 📘
