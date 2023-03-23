@@ -14,6 +14,7 @@ Here are some of my contributions:
 - [rails/rails](https://github.com/rails/rails/commits?author=alexandreruban)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
 - [joeldrapper/phlex](https://github.com/joeldrapper/phlex/commits?author=alexandreruban)
+- [alexandreruban/action-markdown](https://github.com/alexandreruban/action-markdown/commits?author=alexandreruban)
 
 I'm the author of two tutorials:
 - [The turbo-rails tutorial](https://www.hotrails.dev/turbo-rails) about how to use the [turbo-rails](https://github.com/hotwired/turbo-rails) gem included by default in Rails 7. 📘
