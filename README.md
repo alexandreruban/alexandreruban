@@ -13,7 +13,7 @@ I started contributing to open source and would love to contribute more in the f
 Here are some of my contributions:
 - [rails/rails](https://github.com/rails/rails/commits?author=alexandreruban)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
-- [joeldrapper/phlex](https://github.com/joeldrapper/phlex/commits?author=alexandreruban)
+- [phlex-ruby/phlex](https://github.com/phlex-ruby/phlex/commits?author=alexandreruban)
 - [alexandreruban/action-markdown](https://github.com/alexandreruban/action-markdown/commits?author=alexandreruban)
 
 I'm the author of two tutorials:
