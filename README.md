@@ -14,7 +14,6 @@ Here are some of my contributions:
 - [rails/rails](https://github.com/rails/rails/commits?author=alexandreruban)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
 - [phlex-ruby/phlex](https://github.com/phlex-ruby/phlex/commits?author=alexandreruban)
-- [bullet-train-co/showcase](https://github.com/bullet-train-co/showcase/commits/main?author=alexandreruban)
 - [alexandreruban/action-markdown](https://github.com/alexandreruban/action-markdown/commits?author=alexandreruban)
 
 I'm the author of two tutorials:
