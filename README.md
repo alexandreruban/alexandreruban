@@ -3,8 +3,8 @@
 My name is Alexandre, I'm a Ruby on Rails developer and designer from France.
 
 The tools I *love* working with are:
-- Ruby, Ruby on Rails and turbo-rails
-- Stimulus for sprinkles (✨) of JavaScript 
+- Ruby and Ruby on Rails
+- Turbo and Stimulus for sprinkles (✨) of JavaScript 
 - Minitest for testing
 - CSS and Figma for the design
 
